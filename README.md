@@ -1,6 +1,6 @@
-# Trial
+# NgRx Sample ToDo list
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
+This is a NgRx assignment which gives a demo on how NgRx is working. Please also install the 'Redux Dev Tools' google chrome extension to see how data is stored in the store and its state while using this assignment. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1. 
 
 ## Development server
 
